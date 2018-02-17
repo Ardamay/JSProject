@@ -1,0 +1,2 @@
+# JSProject
+For Learning JavaScript
